@@ -1,0 +1,21 @@
+<svg width="36" height="43" viewBox="0 0 36 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<path id="Rectangle 6931" d="M16 28V42H24V28H16Z" fill="#42A7C2"/>
+<path id="Rectangle 6932" d="M28 22V42H36V22H28Z" fill="#42A7C2"/>
+<path id="Path 100969" d="M5 42.3459L5 34.5459H13V42.3459H5Z" fill="#42A7C2"/>
+<g id="Group 47690">
+<g id="Clip path group">
+<mask id="mask0_1_337" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="29" height="26">
+<g id="clip-path-6">
+<path id="Rectangle 6937" d="M28.539 0.833008H0V26H28.539V0.833008Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_337)">
+<g id="Group 47689">
+<path id="Path 100972" d="M28.539 13.663L25.048 9.44401L17.922 0.833008L12.433 7.46601L7.3 13.663H12.829C12.8689 15.3221 12.5268 16.9682 11.829 18.474C10.8108 20.6596 9.09908 22.4475 6.95989 23.5599C4.82071 24.6723 2.37395 25.0467 0 24.625C3.98282 26.3501 8.48169 26.4526 12.5389 24.9106C16.5962 23.3687 19.8914 20.304 21.723 16.369C22.1339 15.4951 22.4756 14.5903 22.745 13.663H28.539Z" fill="#2C9DBC"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
